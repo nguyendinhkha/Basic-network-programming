@@ -1,0 +1,15 @@
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tai_Lop_03\20520562_Bai_Tap_Tai_Lop_03\bin\Debug\20520562_Bai_Tap_Tai_Lop_03.exe.config
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tai_Lop_03\20520562_Bai_Tap_Tai_Lop_03\bin\Debug\20520562_Bai_Tap_Tai_Lop_03.exe
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tai_Lop_03\20520562_Bai_Tap_Tai_Lop_03\bin\Debug\20520562_Bai_Tap_Tai_Lop_03.pdb
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tai_Lop_03\20520562_Bai_Tap_Tai_Lop_03\bin\Debug\HtmlAgilityPack.dll
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tai_Lop_03\20520562_Bai_Tap_Tai_Lop_03\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tai_Lop_03\20520562_Bai_Tap_Tai_Lop_03\bin\Debug\HtmlAgilityPack.xml
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tai_Lop_03\20520562_Bai_Tap_Tai_Lop_03\obj\Debug\20520562_Bai_Tap_Tai_Lop_03.csproj.AssemblyReference.cache
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tai_Lop_03\20520562_Bai_Tap_Tai_Lop_03\obj\Debug\20520562_Bai_Tap_Tai_Lop_03.csproj.SuggestedBindingRedirects.cache
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tai_Lop_03\20520562_Bai_Tap_Tai_Lop_03\obj\Debug\_20520562_Bai_Tap_Tai_Lop_03.Form1.resources
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tai_Lop_03\20520562_Bai_Tap_Tai_Lop_03\obj\Debug\_20520562_Bai_Tap_Tai_Lop_03.Properties.Resources.resources
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tai_Lop_03\20520562_Bai_Tap_Tai_Lop_03\obj\Debug\20520562_Bai_Tap_Tai_Lop_03.csproj.GenerateResource.cache
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tai_Lop_03\20520562_Bai_Tap_Tai_Lop_03\obj\Debug\20520562_Bai_Tap_Tai_Lop_03.csproj.CoreCompileInputs.cache
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tai_Lop_03\20520562_Bai_Tap_Tai_Lop_03\obj\Debug\20520562_Bai_Tap_Tai_Lop_03.csproj.CopyComplete
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tai_Lop_03\20520562_Bai_Tap_Tai_Lop_03\obj\Debug\20520562_Bai_Tap_Tai_Lop_03.exe
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tai_Lop_03\20520562_Bai_Tap_Tai_Lop_03\obj\Debug\20520562_Bai_Tap_Tai_Lop_03.pdb
