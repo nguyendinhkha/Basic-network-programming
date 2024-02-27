@@ -1,0 +1,21 @@
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tái_Lop_02\Client\bin\Debug\Client.exe.config
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tái_Lop_02\Client\bin\Debug\Client.exe
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tái_Lop_02\Client\bin\Debug\Client.pdb
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tái_Lop_02\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tái_Lop_02\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tái_Lop_02\Client\obj\Debug\Client.Form1.resources
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tái_Lop_02\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tái_Lop_02\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tái_Lop_02\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tái_Lop_02\Client\obj\Debug\Client.exe
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tái_Lop_02\Client\obj\Debug\Client.pdb
+C:\Users\HENRY\Documents\Tech\Basic network programming\Homework\20520562_Dinh Kha Nguyen_Classwork_02\Client\bin\Debug\Client.exe.config
+C:\Users\HENRY\Documents\Tech\Basic network programming\Homework\20520562_Dinh Kha Nguyen_Classwork_02\Client\bin\Debug\Client.exe
+C:\Users\HENRY\Documents\Tech\Basic network programming\Homework\20520562_Dinh Kha Nguyen_Classwork_02\Client\bin\Debug\Client.pdb
+C:\Users\HENRY\Documents\Tech\Basic network programming\Homework\20520562_Dinh Kha Nguyen_Classwork_02\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\HENRY\Documents\Tech\Basic network programming\Homework\20520562_Dinh Kha Nguyen_Classwork_02\Client\obj\Debug\Client.Form1.resources
+C:\Users\HENRY\Documents\Tech\Basic network programming\Homework\20520562_Dinh Kha Nguyen_Classwork_02\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\HENRY\Documents\Tech\Basic network programming\Homework\20520562_Dinh Kha Nguyen_Classwork_02\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\HENRY\Documents\Tech\Basic network programming\Homework\20520562_Dinh Kha Nguyen_Classwork_02\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\HENRY\Documents\Tech\Basic network programming\Homework\20520562_Dinh Kha Nguyen_Classwork_02\Client\obj\Debug\Client.exe
+C:\Users\HENRY\Documents\Tech\Basic network programming\Homework\20520562_Dinh Kha Nguyen_Classwork_02\Client\obj\Debug\Client.pdb

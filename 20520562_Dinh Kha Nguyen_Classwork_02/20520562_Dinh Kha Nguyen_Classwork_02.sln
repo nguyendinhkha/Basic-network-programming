@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20520562_Bai_Tap_Tái_Lop_02", "20520562_Bai_Tap_Tái_Lop_02\20520562_Bai_Tap_Tái_Lop_02.csproj", "{75B9B3BC-6D5E-4FC3-A89E-0B648DC3A35E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{CDD6616D-00A7-433B-A6D8-9D573F9FD4D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75B9B3BC-6D5E-4FC3-A89E-0B648DC3A35E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75B9B3BC-6D5E-4FC3-A89E-0B648DC3A35E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75B9B3BC-6D5E-4FC3-A89E-0B648DC3A35E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75B9B3BC-6D5E-4FC3-A89E-0B648DC3A35E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDD6616D-00A7-433B-A6D8-9D573F9FD4D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD6616D-00A7-433B-A6D8-9D573F9FD4D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD6616D-00A7-433B-A6D8-9D573F9FD4D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD6616D-00A7-433B-A6D8-9D573F9FD4D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AF585E1-CDB1-494E-8F7A-EE4224841F2D}
+	EndGlobalSection
+EndGlobal

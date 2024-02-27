@@ -1,0 +1,13 @@
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tái_Lop_02\20520562_Bai_Tap_Tái_Lop_02\bin\Debug\20520562_Bai_Tap_Tái_Lop_02.exe.config
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tái_Lop_02\20520562_Bai_Tap_Tái_Lop_02\bin\Debug\20520562_Bai_Tap_Tái_Lop_02.exe
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tái_Lop_02\20520562_Bai_Tap_Tái_Lop_02\bin\Debug\20520562_Bai_Tap_Tái_Lop_02.pdb
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tái_Lop_02\20520562_Bai_Tap_Tái_Lop_02\bin\Debug\SimpleTCP.dll
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tái_Lop_02\20520562_Bai_Tap_Tái_Lop_02\obj\Debug\20520562_Bai_Tap_Tái_Lop_02.csproj.AssemblyReference.cache
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tái_Lop_02\20520562_Bai_Tap_Tái_Lop_02\obj\Debug\20520562_Bai_Tap_Tái_Lop_02.csproj.SuggestedBindingRedirects.cache
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tái_Lop_02\20520562_Bai_Tap_Tái_Lop_02\obj\Debug\_20520562_Bai_Tap_Tái_Lop_02.Form1.resources
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tái_Lop_02\20520562_Bai_Tap_Tái_Lop_02\obj\Debug\_20520562_Bai_Tap_Tái_Lop_02.Properties.Resources.resources
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tái_Lop_02\20520562_Bai_Tap_Tái_Lop_02\obj\Debug\20520562_Bai_Tap_Tái_Lop_02.csproj.GenerateResource.cache
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tái_Lop_02\20520562_Bai_Tap_Tái_Lop_02\obj\Debug\20520562_Bai_Tap_Tái_Lop_02.csproj.CoreCompileInputs.cache
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tái_Lop_02\20520562_Bai_Tap_Tái_Lop_02\obj\Debug\20520562_Bai_Tap_Tái_Lop_02.csproj.CopyComplete
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tái_Lop_02\20520562_Bai_Tap_Tái_Lop_02\obj\Debug\20520562_Bai_Tap_Tái_Lop_02.exe
+C:\Users\This PC\source\repos\20520562_Bai_Tap_Tái_Lop_02\20520562_Bai_Tap_Tái_Lop_02\obj\Debug\20520562_Bai_Tap_Tái_Lop_02.pdb
