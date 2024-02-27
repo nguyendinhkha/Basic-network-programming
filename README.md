@@ -45,8 +45,4 @@ Path to store files: This is the location where the files that are transferred 
 ![image](https://github.com/nguyendinhkha/Basic-network-programming/assets/82517228/71370b4f-24d2-46af-bac2-fffa2fc00227)
 
 3. Transfer file
-![image](https://github.com/nguyendinhkha/Basic-network-programming/assets/82517228/6c573676-ec50-4a3c-aae6-dbca0f17812c)
-
-
-
-
+![image](https://github.com/nguyendinhkha/Basic-network-programming/assets/82517228/bbbec646-56e3-4c82-b1ce-76320ad8eb0e)
