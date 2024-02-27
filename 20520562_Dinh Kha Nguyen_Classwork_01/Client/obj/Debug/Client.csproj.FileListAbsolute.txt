@@ -1,0 +1,11 @@
+C:\Users\This PC\source\repos\Client\Client\bin\Debug\Client.exe.config
+C:\Users\This PC\source\repos\Client\Client\bin\Debug\Client.exe
+C:\Users\This PC\source\repos\Client\Client\bin\Debug\Client.pdb
+C:\Users\This PC\source\repos\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\This PC\source\repos\Client\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\This PC\source\repos\Client\Client\obj\Debug\Client.Client.resources
+C:\Users\This PC\source\repos\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\This PC\source\repos\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\This PC\source\repos\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\This PC\source\repos\Client\Client\obj\Debug\Client.exe
+C:\Users\This PC\source\repos\Client\Client\obj\Debug\Client.pdb
