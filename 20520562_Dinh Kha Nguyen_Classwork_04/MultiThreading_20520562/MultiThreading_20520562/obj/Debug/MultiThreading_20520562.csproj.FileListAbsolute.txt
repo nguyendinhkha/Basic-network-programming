@@ -1,0 +1,11 @@
+C:\Users\This PC\source\repos\BTVN_MultiThreading\MultiThreading_20520562\MultiThreading_20520562\bin\Debug\MultiThreading_20520562.exe.config
+C:\Users\This PC\source\repos\BTVN_MultiThreading\MultiThreading_20520562\MultiThreading_20520562\bin\Debug\MultiThreading_20520562.exe
+C:\Users\This PC\source\repos\BTVN_MultiThreading\MultiThreading_20520562\MultiThreading_20520562\bin\Debug\MultiThreading_20520562.pdb
+C:\Users\This PC\source\repos\BTVN_MultiThreading\MultiThreading_20520562\MultiThreading_20520562\obj\Debug\MultiThreading_20520562.csproj.AssemblyReference.cache
+C:\Users\This PC\source\repos\BTVN_MultiThreading\MultiThreading_20520562\MultiThreading_20520562\obj\Debug\MultiThreading_20520562.csproj.SuggestedBindingRedirects.cache
+C:\Users\This PC\source\repos\BTVN_MultiThreading\MultiThreading_20520562\MultiThreading_20520562\obj\Debug\MultiThreading_20520562.Properties.Resources.resources
+C:\Users\This PC\source\repos\BTVN_MultiThreading\MultiThreading_20520562\MultiThreading_20520562\obj\Debug\MultiThreading_20520562.csproj.GenerateResource.cache
+C:\Users\This PC\source\repos\BTVN_MultiThreading\MultiThreading_20520562\MultiThreading_20520562\obj\Debug\MultiThreading_20520562.csproj.CoreCompileInputs.cache
+C:\Users\This PC\source\repos\BTVN_MultiThreading\MultiThreading_20520562\MultiThreading_20520562\obj\Debug\MultiThreading_20520562.exe
+C:\Users\This PC\source\repos\BTVN_MultiThreading\MultiThreading_20520562\MultiThreading_20520562\obj\Debug\MultiThreading_20520562.pdb
+C:\Users\This PC\source\repos\BTVN_MultiThreading\MultiThreading_20520562\MultiThreading_20520562\obj\Debug\MultiThreading_20520562.BTTL_MultiThreading_20520562.resources
