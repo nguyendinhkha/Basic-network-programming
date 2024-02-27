@@ -1,0 +1,34 @@
+C:\Users\This PC\source\repos\ATRIX\ATRIX_LTM\ATRIX_LTM\bin\Debug\ATRIX_LTM.exe.config
+C:\Users\This PC\source\repos\ATRIX\ATRIX_LTM\ATRIX_LTM\bin\Debug\ATRIX_LTM.exe
+C:\Users\This PC\source\repos\ATRIX\ATRIX_LTM\ATRIX_LTM\bin\Debug\ATRIX_LTM.pdb
+C:\Users\This PC\source\repos\ATRIX\ATRIX_LTM\ATRIX_LTM\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\This PC\source\repos\ATRIX\ATRIX_LTM\ATRIX_LTM\obj\Debug\ATRIX_LTM.csproj.AssemblyReference.cache
+C:\Users\This PC\source\repos\ATRIX\ATRIX_LTM\ATRIX_LTM\obj\Debug\ATRIX_LTM.csproj.SuggestedBindingRedirects.cache
+C:\Users\This PC\source\repos\ATRIX\ATRIX_LTM\ATRIX_LTM\obj\Debug\ATRIX_LTM.Properties.Resources.resources
+C:\Users\This PC\source\repos\ATRIX\ATRIX_LTM\ATRIX_LTM\obj\Debug\ATRIX_LTM.csproj.GenerateResource.cache
+C:\Users\This PC\source\repos\ATRIX\ATRIX_LTM\ATRIX_LTM\obj\Debug\ATRIX_LTM.csproj.CoreCompileInputs.cache
+C:\Users\This PC\source\repos\ATRIX\ATRIX_LTM\ATRIX_LTM\obj\Debug\ATRIX_LTM.csproj.CopyComplete
+C:\Users\This PC\source\repos\ATRIX\ATRIX_LTM\ATRIX_LTM\obj\Debug\ATRIX_LTM.exe
+C:\Users\This PC\source\repos\ATRIX\ATRIX_LTM\ATRIX_LTM\obj\Debug\ATRIX_LTM.pdb
+C:\Users\This PC\source\repos\ATRIX\ATRIX_LTM\ATRIX_LTM\obj\Debug\ATRIX_LTM.Form2.resources
+C:\Users\This PC\source\repos\ATRIX\ATRIX_LTM\ATRIX_LTM\obj\Debug\ATRIX_LTM.Form3.resources
+C:\Users\This PC\source\repos\ATRIX\ATRIX_LTM\ATRIX_LTM\obj\Debug\ATRIX_LTM.Main.resources
+E:\ATRIX\ATRIX\ATRIX_LTM\ATRIX_LTM\bin\Debug\ATRIX_LTM.exe.config
+E:\ATRIX\ATRIX\ATRIX_LTM\ATRIX_LTM\bin\Debug\ATRIX_LTM.exe
+E:\ATRIX\ATRIX\ATRIX_LTM\ATRIX_LTM\bin\Debug\ATRIX_LTM.pdb
+E:\ATRIX\ATRIX\ATRIX_LTM\ATRIX_LTM\bin\Debug\FontAwesome.Sharp.dll
+E:\ATRIX\ATRIX\ATRIX_LTM\ATRIX_LTM\obj\Debug\ATRIX_LTM.csproj.AssemblyReference.cache
+E:\ATRIX\ATRIX\ATRIX_LTM\ATRIX_LTM\obj\Debug\ATRIX_LTM.Main.resources
+E:\ATRIX\ATRIX\ATRIX_LTM\ATRIX_LTM\obj\Debug\ATRIX_LTM.Properties.Resources.resources
+E:\ATRIX\ATRIX\ATRIX_LTM\ATRIX_LTM\obj\Debug\ATRIX_LTM.csproj.GenerateResource.cache
+E:\ATRIX\ATRIX\ATRIX_LTM\ATRIX_LTM\obj\Debug\ATRIX_LTM.csproj.CoreCompileInputs.cache
+E:\ATRIX\ATRIX\ATRIX_LTM\ATRIX_LTM\obj\Debug\ATRIX_LTM.csproj.CopyComplete
+E:\ATRIX\ATRIX\ATRIX_LTM\ATRIX_LTM\obj\Debug\ATRIX_LTM.exe
+E:\ATRIX\ATRIX\ATRIX_LTM\ATRIX_LTM\obj\Debug\ATRIX_LTM.pdb
+E:\ATRIX\ATRIX\ATRIX_LTM\ATRIX_LTM\obj\Debug\ATRIX_LTM.ControlRemote.resources
+E:\ATRIX\ATRIX\ATRIX_LTM\ATRIX_LTM\bin\Debug\Interop.MSTSCLib.dll
+E:\ATRIX\ATRIX\ATRIX_LTM\ATRIX_LTM\bin\Debug\AxInterop.MSTSCLib.dll
+E:\ATRIX\ATRIX\ATRIX_LTM\ATRIX_LTM\obj\Debug\Interop.MSTSCLib.dll
+E:\ATRIX\ATRIX\ATRIX_LTM\ATRIX_LTM\obj\Debug\AxInterop.MSTSCLib.dll
+E:\ATRIX\ATRIX\ATRIX_LTM\ATRIX_LTM\obj\Debug\ATRIX_LTM.csproj.ResolveComReference.cache
+E:\ATRIX\ATRIX\ATRIX_LTM\ATRIX_LTM\obj\Debug\ATRIX_LTM.PCForm.resources
