@@ -1,0 +1,21 @@
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\demo_multi_chat\Server\bin\Debug\Server.exe.config
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\demo_multi_chat\Server\bin\Debug\Server.exe
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\demo_multi_chat\Server\bin\Debug\Server.pdb
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\demo_multi_chat\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\demo_multi_chat\Server\obj\Debug\Server.Server.resources
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\demo_multi_chat\Server\obj\Debug\Server.Properties.Resources.resources
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\demo_multi_chat\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\demo_multi_chat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\demo_multi_chat\Server\obj\Debug\Server.exe
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\demo_multi_chat\Server\obj\Debug\Server.pdb
+D:\YEET\New folder\Server\bin\Debug\Server.exe.config
+D:\YEET\New folder\Server\bin\Debug\Server.exe
+D:\YEET\New folder\Server\bin\Debug\Server.pdb
+D:\YEET\New folder\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\YEET\New folder\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+D:\YEET\New folder\Server\obj\Debug\Server.Server.resources
+D:\YEET\New folder\Server\obj\Debug\Server.Properties.Resources.resources
+D:\YEET\New folder\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\YEET\New folder\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\YEET\New folder\Server\obj\Debug\Server.exe
+D:\YEET\New folder\Server\obj\Debug\Server.pdb

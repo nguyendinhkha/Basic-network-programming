@@ -1,0 +1,10 @@
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\demo_multi_chat\demo_multi_chat\bin\Debug\demo_multi_chat.exe.config
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\demo_multi_chat\demo_multi_chat\bin\Debug\demo_multi_chat.exe
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\demo_multi_chat\demo_multi_chat\bin\Debug\demo_multi_chat.pdb
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\demo_multi_chat\demo_multi_chat\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\demo_multi_chat\demo_multi_chat\obj\Debug\demo_multi_chat.Client.resources
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\demo_multi_chat\demo_multi_chat\obj\Debug\demo_multi_chat.Properties.Resources.resources
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\demo_multi_chat\demo_multi_chat\obj\Debug\Client.csproj.GenerateResource.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\demo_multi_chat\demo_multi_chat\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\demo_multi_chat\demo_multi_chat\obj\Debug\demo_multi_chat.exe
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\demo_multi_chat\demo_multi_chat\obj\Debug\demo_multi_chat.pdb
