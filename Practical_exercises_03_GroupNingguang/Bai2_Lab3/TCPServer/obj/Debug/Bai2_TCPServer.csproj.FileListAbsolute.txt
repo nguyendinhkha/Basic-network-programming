@@ -1,0 +1,10 @@
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab3\Bai2_Lab3\TCPServer\bin\Debug\TCPServer.exe.config
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab3\Bai2_Lab3\TCPServer\bin\Debug\TCPServer.exe
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab3\Bai2_Lab3\TCPServer\bin\Debug\TCPServer.pdb
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab3\Bai2_Lab3\TCPServer\obj\Debug\TCPServer.Bai2_TCPServer.resources
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab3\Bai2_Lab3\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab3\Bai2_Lab3\TCPServer\obj\Debug\Bai2_TCPServer.csproj.GenerateResource.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab3\Bai2_Lab3\TCPServer\obj\Debug\Bai2_TCPServer.csproj.CoreCompileInputs.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab3\Bai2_Lab3\TCPServer\obj\Debug\TCPServer.exe
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab3\Bai2_Lab3\TCPServer\obj\Debug\TCPServer.pdb
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab3\Bai2_Lab3\TCPServer\obj\Debug\Bai2_TCPServer.csproj.AssemblyReference.cache

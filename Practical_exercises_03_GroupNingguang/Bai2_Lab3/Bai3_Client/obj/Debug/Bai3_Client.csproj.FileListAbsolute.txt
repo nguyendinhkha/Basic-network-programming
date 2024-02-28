@@ -1,0 +1,12 @@
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab3\Bai2_Lab3\Bai3_Client\bin\Debug\Bai3_Client.exe.config
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab3\Bai2_Lab3\Bai3_Client\bin\Debug\Bai3_Client.exe
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab3\Bai2_Lab3\Bai3_Client\bin\Debug\Bai3_Client.pdb
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab3\Bai2_Lab3\Bai3_Client\obj\Debug\Bai3_Client.csproj.AssemblyReference.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab3\Bai2_Lab3\Bai3_Client\obj\Debug\Bai3_Client.btnTCPClient.resources
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab3\Bai2_Lab3\Bai3_Client\obj\Debug\Bai3_Client.btnTCPServer.resources
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab3\Bai2_Lab3\Bai3_Client\obj\Debug\Bai3_Client.Properties.Resources.resources
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab3\Bai2_Lab3\Bai3_Client\obj\Debug\Bai3_Client.TCPCLient.resources
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab3\Bai2_Lab3\Bai3_Client\obj\Debug\Bai3_Client.csproj.GenerateResource.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab3\Bai2_Lab3\Bai3_Client\obj\Debug\Bai3_Client.csproj.CoreCompileInputs.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab3\Bai2_Lab3\Bai3_Client\obj\Debug\Bai3_Client.exe
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab3\Bai2_Lab3\Bai3_Client\obj\Debug\Bai3_Client.pdb
