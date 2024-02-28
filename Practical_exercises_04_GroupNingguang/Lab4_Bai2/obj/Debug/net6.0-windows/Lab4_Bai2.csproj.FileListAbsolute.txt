@@ -1,0 +1,17 @@
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab4\Lab4_LTM\Lab4_Bai2\bin\Debug\net6.0-windows\Lab4_Bai2.exe
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab4\Lab4_LTM\Lab4_Bai2\bin\Debug\net6.0-windows\Lab4_Bai2.deps.json
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab4\Lab4_LTM\Lab4_Bai2\bin\Debug\net6.0-windows\Lab4_Bai2.runtimeconfig.json
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab4\Lab4_LTM\Lab4_Bai2\bin\Debug\net6.0-windows\Lab4_Bai2.dll
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab4\Lab4_LTM\Lab4_Bai2\bin\Debug\net6.0-windows\Lab4_Bai2.pdb
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab4\Lab4_LTM\Lab4_Bai2\obj\Debug\net6.0-windows\Lab4_Bai2.csproj.AssemblyReference.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab4\Lab4_LTM\Lab4_Bai2\obj\Debug\net6.0-windows\Lab4_Bai2.Bai2.resources
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab4\Lab4_LTM\Lab4_Bai2\obj\Debug\net6.0-windows\Lab4_Bai2.csproj.GenerateResource.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab4\Lab4_LTM\Lab4_Bai2\obj\Debug\net6.0-windows\Lab4_Bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab4\Lab4_LTM\Lab4_Bai2\obj\Debug\net6.0-windows\Lab4_Bai2.AssemblyInfoInputs.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab4\Lab4_LTM\Lab4_Bai2\obj\Debug\net6.0-windows\Lab4_Bai2.AssemblyInfo.cs
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab4\Lab4_LTM\Lab4_Bai2\obj\Debug\net6.0-windows\Lab4_Bai2.csproj.CoreCompileInputs.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab4\Lab4_LTM\Lab4_Bai2\obj\Debug\net6.0-windows\Lab4_Bai2.dll
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab4\Lab4_LTM\Lab4_Bai2\obj\Debug\net6.0-windows\refint\Lab4_Bai2.dll
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab4\Lab4_LTM\Lab4_Bai2\obj\Debug\net6.0-windows\Lab4_Bai2.pdb
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab4\Lab4_LTM\Lab4_Bai2\obj\Debug\net6.0-windows\Lab4_Bai2.genruntimeconfig.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\UIT\SecondYear\Basic network programing\Lab4\Lab4_LTM\Lab4_Bai2\obj\Debug\net6.0-windows\ref\Lab4_Bai2.dll
