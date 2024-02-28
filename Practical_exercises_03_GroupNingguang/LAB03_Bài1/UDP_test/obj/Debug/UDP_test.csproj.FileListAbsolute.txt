@@ -1,0 +1,11 @@
+C:\Users\This PC\source\repos\UDP_test\UDP_test\bin\Debug\UDP_test.exe.config
+C:\Users\This PC\source\repos\UDP_test\UDP_test\bin\Debug\UDP_test.exe
+C:\Users\This PC\source\repos\UDP_test\UDP_test\bin\Debug\UDP_test.pdb
+C:\Users\This PC\source\repos\UDP_test\UDP_test\obj\Debug\UDP_test.csproj.AssemblyReference.cache
+C:\Users\This PC\source\repos\UDP_test\UDP_test\obj\Debug\UDP_test.csproj.SuggestedBindingRedirects.cache
+C:\Users\This PC\source\repos\UDP_test\UDP_test\obj\Debug\UDP_test.Form1.resources
+C:\Users\This PC\source\repos\UDP_test\UDP_test\obj\Debug\UDP_test.Properties.Resources.resources
+C:\Users\This PC\source\repos\UDP_test\UDP_test\obj\Debug\UDP_test.csproj.GenerateResource.cache
+C:\Users\This PC\source\repos\UDP_test\UDP_test\obj\Debug\UDP_test.csproj.CoreCompileInputs.cache
+C:\Users\This PC\source\repos\UDP_test\UDP_test\obj\Debug\UDP_test.exe
+C:\Users\This PC\source\repos\UDP_test\UDP_test\obj\Debug\UDP_test.pdb
