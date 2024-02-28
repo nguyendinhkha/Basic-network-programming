@@ -1,0 +1,11 @@
+D:\AAAAAAAAAA\LAB4_Bai3\bin\Debug\LAB4_Bai3.exe.config
+D:\AAAAAAAAAA\LAB4_Bai3\bin\Debug\LAB4_Bai3.exe
+D:\AAAAAAAAAA\LAB4_Bai3\bin\Debug\LAB4_Bai3.pdb
+D:\AAAAAAAAAA\LAB4_Bai3\obj\Debug\LAB4_Bai3.csproj.AssemblyReference.cache
+D:\AAAAAAAAAA\LAB4_Bai3\obj\Debug\LAB4_Bai3.csproj.SuggestedBindingRedirects.cache
+D:\AAAAAAAAAA\LAB4_Bai3\obj\Debug\LAB4_Bai3.LAB4_Bai3.resources
+D:\AAAAAAAAAA\LAB4_Bai3\obj\Debug\LAB4_Bai3.Properties.Resources.resources
+D:\AAAAAAAAAA\LAB4_Bai3\obj\Debug\LAB4_Bai3.csproj.GenerateResource.cache
+D:\AAAAAAAAAA\LAB4_Bai3\obj\Debug\LAB4_Bai3.csproj.CoreCompileInputs.cache
+D:\AAAAAAAAAA\LAB4_Bai3\obj\Debug\LAB4_Bai3.exe
+D:\AAAAAAAAAA\LAB4_Bai3\obj\Debug\LAB4_Bai3.pdb
